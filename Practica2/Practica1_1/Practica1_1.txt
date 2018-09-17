@@ -1,0 +1,1 @@
+./Debug/MiLista.cpp.o ./Debug/MiCola.cpp.o ./Debug/Cliente.cpp.o ./Debug/main.cpp.o ./Debug/MiNodoCola.cpp.o ./Debug/Gestor.cpp.o ./Debug/Arbol.cpp.o ./Debug/MiNodoLista.cpp.o ./Debug/NodoArbol.cpp.o   
